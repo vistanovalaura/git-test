@@ -13,6 +13,10 @@ public class HelloWorld {
 			System.out.println(i);
 			
 			// ondrov komentar
+			
+			while(true) {
+				System.out.println("blbost");
+			}
 		}
 	}
 }

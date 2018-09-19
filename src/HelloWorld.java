@@ -13,6 +13,8 @@ public class HelloWorld {
 			System.out.println(i);
 			
 			// ondrov komentar
+			
+			//dufam ze to bude fungovat
 		}
 	}
 }

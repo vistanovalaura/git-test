@@ -15,6 +15,9 @@ public class HelloWorld {
 			// ondrov komentar
 			
 			//dufam ze to bude fungovat
+			while(true) {
+				System.out.println("blbost");
+			}
 		}
 	}
 }
